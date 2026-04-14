@@ -111,7 +111,7 @@ export function CalorieCalculator() {
                   style={{ display: 'block' }}
                   data-ad-format="fluid"
                   data-ad-layout-key="-fb+5w+4e-db+86"
-                  data-ad-client="ca-pub-XXXXXXXXXXXXXXXX"
+                  data-ad-client="ca-pub-9374250998377227"
                   data-ad-slot="0000000008"
                 />
               </div>

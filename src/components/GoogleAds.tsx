@@ -23,7 +23,7 @@ export function GoogleAds({ slot, format = 'auto', className = '' }: GoogleAdsPr
       <ins
         className="adsbygoogle"
         style={{ display: 'block' }}
-        data-ad-client="ca-pub-XXXXXXXXXXXXXXXX" // Substituir pelo ID real
+        data-ad-client="ca-pub-9374250998377227" // ID Real Atualizado
         data-ad-slot={slot}
         data-ad-format={format}
         data-full-width-responsive="true"
